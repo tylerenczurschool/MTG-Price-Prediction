@@ -1,0 +1,7 @@
+darts==0.31.0
+matplotlib==3.10.0
+numpy==2.2.1
+pandas==2.2.3
+Requests==2.32.3
+scikit_learn==1.6.0
+torch==2.5.1
